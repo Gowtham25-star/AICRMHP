@@ -1,5 +1,3 @@
-Here is a **beginner-friendly README.md** for your **AI CRM HCP Project**. You can directly copy this into your project `README.md` file.
-
 ```md
 # AI CRM HCP Project
 
