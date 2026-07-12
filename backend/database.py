@@ -7,7 +7,8 @@ import os
 # Load .env variables
 load_dotenv()
 
-DATABASE_URL = os.getenv("DATABASE_URL")
+DATABASE_URL = "postgresql://postgres:250709@localhost:5432/crm_db"
+
 
 # Create database engine
 engine = create_engine(DATABASE_URL)
